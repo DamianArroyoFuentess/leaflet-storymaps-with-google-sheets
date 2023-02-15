@@ -2,6 +2,7 @@ body {
   padding: 0px;
   margin: 0px;
   /* font-family: "Helvetica", sans-serif; */
+  font-family: 'DM Serif Display', serif;
   overflow: hidden;
 }
 
@@ -116,6 +117,7 @@ a.source:visited {
   text-align: left;
   font-size: 11pt;
   padding: 20px;
+  
 }
 
 .in-focus {
