@@ -101,6 +101,7 @@ body {
   text-align: center;
   font-size: 1.2em;
   padding: 0 5px;
+  font-family: 'Hammersmith One', sans-serif;
 }
 
 .source {
@@ -117,6 +118,7 @@ a.source:visited {
   text-align: left;
   font-size: 11pt;
   padding: 20px;
+  font-family: 'Lexend', sans-serif;
   
 }
 
